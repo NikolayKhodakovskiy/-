@@ -1,0 +1,58 @@
+﻿<Window x:Class="EncodingImages.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EncodingImages"
+        mc:Ignorable="d"
+        Title="Image Encoder" Height="720" Width="1485" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <Menu Height="25" VerticalAlignment="Top">
+            <MenuItem Header="Файл" Height="25">
+                <MenuItem Header="Открыть картинку ">
+                    <MenuItem Header="проект" Click="LoadFromProject_Click"></MenuItem>
+                    <MenuItem Header="компьютер" Click="LoadFromResource_Click"></MenuItem>
+                </MenuItem>
+                <Separator />
+                <MenuItem Header="Очистить" Click="ClearFields_Click"></MenuItem>
+                <MenuItem Header="Выйти" Click="ExitWindow_Click"></MenuItem>
+            </MenuItem>
+        </Menu>
+        <Grid Margin="0,25,0,0" Background="LightGray" VerticalAlignment="Top" MinHeight="300" Height="461">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="730"></ColumnDefinition>
+                <ColumnDefinition Width="10"></ColumnDefinition>
+                <ColumnDefinition Width="730"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Image x:Name="InitialImage" Grid.Column="0" HorizontalAlignment="Stretch" Margin="20,20,20,20" ToolTip="Начальная картинка" Stretch="Uniform" VerticalAlignment="Stretch"/>
+            <Image x:Name="EncodedImage" Grid.Column="2" HorizontalAlignment="Stretch" Margin="20,20,20,20" ToolTip="Картинка с сокрытым текстом" Stretch="Uniform"/>
+            <GridSplitter Width="10" Grid.Column="1" HorizontalAlignment="Center" Margin="0,0,0,0" IsEnabled="False"/>
+            <GridSplitter HorizontalAlignment="Left" Margin="-13,461,0,-20" IsEnabled="False" FlowDirection="RightToLeft" RenderTransformOrigin="0.5,0.5" Width="1497" Height="20" Grid.ColumnSpan="3">
+                <GridSplitter.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="180"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </GridSplitter.RenderTransform>
+            </GridSplitter>
+        </Grid>
+        <Grid Margin="0,525,0,0" Width="1465" HorizontalAlignment="Center" Height="146" VerticalAlignment="Top">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1256*"></ColumnDefinition>
+                <ColumnDefinition Width="209*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <TextBox x:Name="Message" TextWrapping="Wrap" Width="1241" Height="137" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,0,0,0" RenderTransformOrigin="0.5,0.5"></TextBox>
+            <StackPanel Grid.Column="1" Margin="15,0,10,6" >
+                <Button x:Name="EncodeTextButton" Content="Зашифровать текст" Height="22" Width="176" Click="EncodeTextButton_Click" HorizontalAlignment="Left" Margin="5,0,0,0"/>
+                <Button x:Name="DecodeTextButton" Content="Получить текст" Width="176" Height="22" Click="DecodeTextButton_Click" VerticalAlignment="Stretch" HorizontalAlignment="Left" Margin="5,15,0,0"/>
+                <Label Content="Позиция бита" Width="176" Margin="0,15,6,0" HorizontalContentAlignment="Left" ></Label>
+                <StackPanel Orientation="Horizontal" Width="176" HorizontalAlignment="Left" Margin="5,5,0,0">
+                    <Slider x:Name="BitPosition" Width="120" Value="0" Maximum="7" TickFrequency="1" IsSnapToTickEnabled="True" ToolTip="Позволяет увидеть разницу после шифрования текста. Чем больше значение, тем лучше видно разницу" HorizontalAlignment="Left" Margin="0,0,0,0" />
+                    <TextBox x:Name="BitLabel" Text="{Binding Value, ElementName=BitPosition, UpdateSourceTrigger=PropertyChanged}" TextWrapping="Wrap" Width="50" Height="20" HorizontalContentAlignment="Center" Margin="5,0,0,0"/>
+                </StackPanel>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

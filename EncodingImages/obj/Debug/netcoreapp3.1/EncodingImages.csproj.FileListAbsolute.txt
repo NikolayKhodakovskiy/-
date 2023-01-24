@@ -1,0 +1,80 @@
+C:\Users\wafle\source\repos\EncodingImages\EncodingImages\bin\Debug\netcoreapp3.1\EncodingImages.exe
+C:\Users\wafle\source\repos\EncodingImages\EncodingImages\bin\Debug\netcoreapp3.1\EncodingImages.deps.json
+C:\Users\wafle\source\repos\EncodingImages\EncodingImages\bin\Debug\netcoreapp3.1\EncodingImages.runtimeconfig.json
+C:\Users\wafle\source\repos\EncodingImages\EncodingImages\bin\Debug\netcoreapp3.1\EncodingImages.runtimeconfig.dev.json
+C:\Users\wafle\source\repos\EncodingImages\EncodingImages\bin\Debug\netcoreapp3.1\EncodingImages.dll
+C:\Users\wafle\source\repos\EncodingImages\EncodingImages\bin\Debug\netcoreapp3.1\EncodingImages.pdb
+C:\Users\wafle\source\repos\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\EncodingImages.csproj.AssemblyReference.cache
+C:\Users\wafle\source\repos\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\wafle\source\repos\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\wafle\source\repos\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\EncodingImages_MarkupCompile.cache
+C:\Users\wafle\source\repos\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\EncodingImages_MarkupCompile.lref
+C:\Users\wafle\source\repos\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\wafle\source\repos\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\EncodingImages.g.resources
+C:\Users\wafle\source\repos\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\EncodingImages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wafle\source\repos\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\EncodingImages.AssemblyInfoInputs.cache
+C:\Users\wafle\source\repos\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\EncodingImages.AssemblyInfo.cs
+C:\Users\wafle\source\repos\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\EncodingImages.csproj.CoreCompileInputs.cache
+C:\Users\wafle\source\repos\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\EncodingImages.dll
+C:\Users\wafle\source\repos\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\EncodingImages.pdb
+C:\Users\wafle\source\repos\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\EncodingImages.genruntimeconfig.cache
+C:\Users\wafle\Desktop\EncodingImages\EncodingImages\bin\Debug\netcoreapp3.1\EncodingImages.exe
+C:\Users\wafle\Desktop\EncodingImages\EncodingImages\bin\Debug\netcoreapp3.1\EncodingImages.deps.json
+C:\Users\wafle\Desktop\EncodingImages\EncodingImages\bin\Debug\netcoreapp3.1\EncodingImages.runtimeconfig.json
+C:\Users\wafle\Desktop\EncodingImages\EncodingImages\bin\Debug\netcoreapp3.1\EncodingImages.runtimeconfig.dev.json
+C:\Users\wafle\Desktop\EncodingImages\EncodingImages\bin\Debug\netcoreapp3.1\EncodingImages.dll
+C:\Users\wafle\Desktop\EncodingImages\EncodingImages\bin\Debug\netcoreapp3.1\EncodingImages.pdb
+C:\Users\wafle\Desktop\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\EncodingImages.csproj.AssemblyReference.cache
+C:\Users\wafle\Desktop\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\wafle\Desktop\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\wafle\Desktop\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\EncodingImages_MarkupCompile.cache
+C:\Users\wafle\Desktop\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\EncodingImages_MarkupCompile.lref
+C:\Users\wafle\Desktop\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\wafle\Desktop\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\EncodingImages.g.resources
+C:\Users\wafle\Desktop\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\EncodingImages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wafle\Desktop\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\EncodingImages.AssemblyInfoInputs.cache
+C:\Users\wafle\Desktop\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\EncodingImages.AssemblyInfo.cs
+C:\Users\wafle\Desktop\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\EncodingImages.csproj.CoreCompileInputs.cache
+C:\Users\wafle\Desktop\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\EncodingImages.dll
+C:\Users\wafle\Desktop\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\EncodingImages.pdb
+C:\Users\wafle\Desktop\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\EncodingImages.genruntimeconfig.cache
+C:\Users\wafle\Desktop\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\DecodeImageWindow.g.cs
+C:\Users\wafle\Desktop\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\DecodeImageWindow.baml
+C:\Users\wafle\Desktop\EncodingImages\EncodingImages\bin\Debug\netcoreapp3.1\DocuSign.eSign.dll
+C:\Users\wafle\Desktop\EncodingImages\EncodingImages\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wafle\Desktop\EncodingImages\EncodingImages\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\wafle\Desktop\EncodingImages\EncodingImages\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\wafle\Desktop\EncodingImages\EncodingImages\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wafle\Desktop\EncodingImages\EncodingImages\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\wafle\Desktop\EncodingImages\EncodingImages\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\wafle\Desktop\EncodingImages\EncodingImages\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wafle\Desktop\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\EncodingImages.csproj.CopyComplete
+C:\Users\wafle\Desktop\Labs\NTU KHPI\EncodingImages\EncodingImages\bin\Debug\netcoreapp3.1\EncodingImages.exe
+C:\Users\wafle\Desktop\Labs\NTU KHPI\EncodingImages\EncodingImages\bin\Debug\netcoreapp3.1\EncodingImages.deps.json
+C:\Users\wafle\Desktop\Labs\NTU KHPI\EncodingImages\EncodingImages\bin\Debug\netcoreapp3.1\EncodingImages.runtimeconfig.json
+C:\Users\wafle\Desktop\Labs\NTU KHPI\EncodingImages\EncodingImages\bin\Debug\netcoreapp3.1\EncodingImages.runtimeconfig.dev.json
+C:\Users\wafle\Desktop\Labs\NTU KHPI\EncodingImages\EncodingImages\bin\Debug\netcoreapp3.1\EncodingImages.dll
+C:\Users\wafle\Desktop\Labs\NTU KHPI\EncodingImages\EncodingImages\bin\Debug\netcoreapp3.1\EncodingImages.pdb
+C:\Users\wafle\Desktop\Labs\NTU KHPI\EncodingImages\EncodingImages\bin\Debug\netcoreapp3.1\DocuSign.eSign.dll
+C:\Users\wafle\Desktop\Labs\NTU KHPI\EncodingImages\EncodingImages\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wafle\Desktop\Labs\NTU KHPI\EncodingImages\EncodingImages\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\wafle\Desktop\Labs\NTU KHPI\EncodingImages\EncodingImages\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\wafle\Desktop\Labs\NTU KHPI\EncodingImages\EncodingImages\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wafle\Desktop\Labs\NTU KHPI\EncodingImages\EncodingImages\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\wafle\Desktop\Labs\NTU KHPI\EncodingImages\EncodingImages\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\wafle\Desktop\Labs\NTU KHPI\EncodingImages\EncodingImages\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wafle\Desktop\Labs\NTU KHPI\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\EncodingImages.csproj.AssemblyReference.cache
+C:\Users\wafle\Desktop\Labs\NTU KHPI\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\wafle\Desktop\Labs\NTU KHPI\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\wafle\Desktop\Labs\NTU KHPI\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\EncodingImages_MarkupCompile.cache
+C:\Users\wafle\Desktop\Labs\NTU KHPI\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\EncodingImages_MarkupCompile.lref
+C:\Users\wafle\Desktop\Labs\NTU KHPI\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\wafle\Desktop\Labs\NTU KHPI\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\EncodingImages.g.resources
+C:\Users\wafle\Desktop\Labs\NTU KHPI\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\EncodingImages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wafle\Desktop\Labs\NTU KHPI\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\EncodingImages.AssemblyInfoInputs.cache
+C:\Users\wafle\Desktop\Labs\NTU KHPI\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\EncodingImages.AssemblyInfo.cs
+C:\Users\wafle\Desktop\Labs\NTU KHPI\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\EncodingImages.csproj.CoreCompileInputs.cache
+C:\Users\wafle\Desktop\Labs\NTU KHPI\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\EncodingImages.csproj.CopyComplete
+C:\Users\wafle\Desktop\Labs\NTU KHPI\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\EncodingImages.dll
+C:\Users\wafle\Desktop\Labs\NTU KHPI\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\EncodingImages.pdb
+C:\Users\wafle\Desktop\Labs\NTU KHPI\EncodingImages\EncodingImages\obj\Debug\netcoreapp3.1\EncodingImages.genruntimeconfig.cache
